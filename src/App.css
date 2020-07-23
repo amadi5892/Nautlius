@@ -6,6 +6,7 @@
   text-align: center;
   background: transparent;
   margin-bottom: 0;
+  opacity: .8;
 }
 
 .jumbotron > .container {
@@ -20,12 +21,13 @@
 .display-4 {
   color: #8e6a23;
   width: 900px;
+  margin-left: 100px;
 }
 
 .jumbo-btn {
   background-color: white;
   width: 100px;
-  margin-left: 37%;
+  margin-left: 45%;
 }
 
 .paral {
