@@ -2,6 +2,15 @@
   text-align: center;
 } */
 
+a {
+  color: black;
+}
+
+.fab {
+  color: black;
+  height: 100px;
+}
+
 .jumbotron {
   text-align: center;
   background: transparent;
@@ -19,7 +28,7 @@
 }
 
 .display-4 {
-  color: #8e6a23;
+  color: gold;
   width: 900px;
   margin-left: 100px;
 }

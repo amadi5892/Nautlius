@@ -5,6 +5,29 @@ function Header() {
 
     return(
         <div>
+            <ul class="nav justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">ISSUES</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">TOPICS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">BLOG</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" >NEWSLETTER</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" >LOGIN</a>
+                </li>
+            </ul>
+
             <div className="jumbotron jumbotron-fluid paralsec">
                 <div className="container">
                     <p className="lead">THE NAUTLIUS SPOTLIGHT</p>
