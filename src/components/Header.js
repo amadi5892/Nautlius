@@ -35,6 +35,18 @@ function Header() {
                     <button className="jumbo-btn">READ NOW</button>
                 </div>
             </div>
+
+        <div className="contianer">
+            <div className="row">
+                <div className="contianer-md-3">
+
+                </div>
+                <div className="container-md-9">
+
+                </div>
+            </div>
+        </div>
+
         </div>
     )
 }
